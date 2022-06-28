@@ -1,0 +1,12 @@
+{
+  "name": "cursojs",
+  "version": "1.0.0",
+  "description": "Curso JS Alura",
+  "main": "banco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LUcas",
+  "license": "ISC",
+  "type": "module"
+}
