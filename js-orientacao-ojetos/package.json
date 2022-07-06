@@ -1,12 +1,12 @@
 {
-  "name": "cursojs",
+  "name": "bytebank",
   "version": "1.0.0",
-  "description": "Curso JS Alura",
-  "main": "banco.js",
+  "description": "Projeto do Bytebank para seus clientes",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "LUcas",
+  "author": "",
   "license": "ISC",
   "type": "module"
 }
